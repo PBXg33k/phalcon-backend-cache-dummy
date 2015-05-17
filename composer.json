@@ -1,0 +1,13 @@
+{
+    "name": "pbxg33k/phalcon-dummy-backend-cache",
+    "description": "This is a library which doesn't cache but still offers a class that responses to the cache methods. Useful for developing/testing without cache.",
+    "type": "Library",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Oguzhan Uysal",
+            "email": "development@oguzhanuysal.eu"
+        }
+    ],
+    "require": {}
+}
